@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/komalrevin/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/komalrevin/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/komalrevin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komalrevin/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/komalrevin/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/komalrevin/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/komalrevin/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/komalrevin/leetcode/tree/master/0344-reverse-string) |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/komalrevin/leetcode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
