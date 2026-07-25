@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/komalrevin/leetcode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/komalrevin/leetcode/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/komalrevin/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/komalrevin/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/komalrevin/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/komalrevin/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/komalrevin/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -68,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/komalrevin/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
