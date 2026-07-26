@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/komalrevin/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/komalrevin/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/komalrevin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komalrevin/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/komalrevin/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/komalrevin/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -72,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/komalrevin/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/komalrevin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/komalrevin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/komalrevin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
