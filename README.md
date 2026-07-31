@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/komalrevin/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/komalrevin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/komalrevin/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/komalrevin/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/komalrevin/leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/komalrevin/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/komalrevin/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/komalrevin/leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/komalrevin/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/komalrevin/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/komalrevin/leetcode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/komalrevin/leetcode/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/komalrevin/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
