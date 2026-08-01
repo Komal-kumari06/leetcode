@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/komalrevin/leetcode/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/komalrevin/leetcode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/komalrevin/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/komalrevin/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/komalrevin/leetcode/tree/master/0202-happy-number) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/komalrevin/leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/komalrevin/leetcode/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/komalrevin/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/komalrevin/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
